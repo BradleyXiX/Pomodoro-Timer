@@ -77,28 +77,6 @@ When the work session ends, the timer will automatically switch to the break ses
 
 A beep sound will play when the timer reaches zero.
 
- ## Installation
-To run this project locally, follow these steps:
-
-Clone the Repository:
-
-bash
-
-git clone https://github.com/BradleyXiX/FCC-Submissions-/tree/main/twenty-five-five-clock
-cd pomodoro-clock
-Install Dependencies:
-
-bash
-
-npm install
-Start the Development Server:
-
-bash
-
-npm start
-Open the App:
-
-The app will open in your browser at http://localhost:3000.
 
 ## Credits
 freeCodeCamp: For providing the project requirements and inspiration.
